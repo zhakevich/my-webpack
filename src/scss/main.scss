@@ -1,0 +1,11 @@
+@import 'mixins';
+@import 'fonts';
+@import 'vendor';
+@import 'vars';
+@import 'settings';
+
+body {
+  background-color: blue;
+  background-image: url('../img/2.jpg');
+  background-repeat: no-repeat;
+}
